@@ -6,10 +6,13 @@ w3e456y
 >>>>>>> Stashed changes
 
 
+o
 
+r
 
-
-
-
+f
 
 united kingdom 
+
+
+wordpress config

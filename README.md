@@ -22,4 +22,14 @@ wordpress config
 
 madrid vs barcelona who wins??
 
+<<<<<<< Updated upstream
 barselona win
+=======
+
+
+hala madrid mate
+
+
+
+The quick brown fox jumps over the lazy dog
+>>>>>>> Stashed changes
